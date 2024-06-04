@@ -25,3 +25,4 @@ Manifests:
           else
             echo "Already updated."
           fi
+          
